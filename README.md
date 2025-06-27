@@ -14,4 +14,8 @@ pip install nncodec
 pip install zennit-crp
 ```
 
-You are now ready to run the experiments.
+You are now ready to run the example segmentation experiments with:
+
+```bash
+python3 segmentation.py
+```
